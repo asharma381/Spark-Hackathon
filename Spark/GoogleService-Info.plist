@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>219456488480-j0ifnko4f3rhmc23t3ho53emrjratbjk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.219456488480-j0ifnko4f3rhmc23t3ho53emrjratbjk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJQyWLzfbu91Fx7AmW3IN-E4_xDB_NGKU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>219456488480</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ishangoyal100.Cafegram2EN</string>
+	<key>PROJECT_ID</key>
+	<string>cafegram2en</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cafegram2en.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:219456488480:ios:1c9697bd7995fa6e</string>
+	<key>DATABASE_URL</key>
+	<string>https://cafegram2en.firebaseio.com</string>
+</dict>
+</plist>
